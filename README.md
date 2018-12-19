@@ -5,7 +5,7 @@ Pham Vu Thien Bao 	- 15520042
 Huynh Tien Dat 	- 15520101
 Ngo Xuan Duc 		- 15520124
 
-Youtube: https://www.youtube.com/watch?v=I3XcrRpSZzk&feature=youtu.be
+Youtube: https://youtu.be/I3XcrRpSZzk
 
 1. Install
 	-Edit file  /inludes/config.php 
